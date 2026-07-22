@@ -4,9 +4,9 @@ void main () {
 
     final String nisn = '1234567';
 
-    const double pi = 3.12;
+    const Double pi = 3.12;
 
     print ('alamat: $alamat');
     print ('nisn: $nisn');
-    print ('pi: $pi');
+    Print ('pi: $pi');
 }
